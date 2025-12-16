@@ -41,9 +41,6 @@ This project proposes a hardware-algorithm co-design solution for low-cost patho
    pip install -r requirements.txt
    ```
 
-3. For image stitching with ImageJ:
-   - Download Fiji (ImageJ) from [here](https://fiji.sc/)
-   - Set the `fijiPath` in test scripts to your Fiji installation directory
 
 ## 📊 Dataset Preparation
 We use the **ProPathoFocus-32** dataset, which contains 32 histologically confirmed prostate biopsy specimens with controlled defocus levels. The dataset structure should follow:
