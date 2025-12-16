@@ -1,6 +1,6 @@
 # KGTCN: Kernel-Guided Transformer-CNN Network for Low-Cost Pathological Whole Slide Imaging
 
-[![Paper](https://img.shields.io/badge/Paper-ArXiv-green)](https://github.com/dlyhc/KGTCN-WSI)
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Official implementation of the paper **"Kernel-Guided Transformer-CNN Network for Low-Cost Pathological Whole Slide Imaging: Hardware-Algorithm Synergy"**
